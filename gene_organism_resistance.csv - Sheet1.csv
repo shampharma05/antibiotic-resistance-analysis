@@ -1,0 +1,15 @@
+Gene_Name,Organism,Resistance_Type
+marR,Escherichia coli,Multiple antibiotic resistance
+blaTEM,Escherichia coli,Beta-lactam resistance
+mecA,Staphylococcus aureus,Methicillin resistance
+vanA,Enterococcus faecium,Vancomycin resistance
+tetM,Streptococcus pneumoniae,Tetracycline resistance
+ermB,Streptococcus pyogenes,Macrolide resistance
+NDM-1,Klebsiella pneumoniae,Carbapenem resistance
+mcr-1,Escherichia coli,Colistin resistance
+sul1,Escherichia coli,Sulfonamide resistance
+qnrS,Salmonella enterica,Quinolone resistance
+tetA,Escherichia coli,Tetracycline resistance
+vanB,Enterococcus faecium,Vancomycin resistance
+ermC,Staphylococcus aureus,Macrolide resistance
+KPC,Klebsiella pneumoniae,Carbapenem resistance
